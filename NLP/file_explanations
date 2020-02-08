@@ -1,0 +1,10 @@
+201910_Tweets.xlsx - file containing 85607 tweets based on ftse100 company names in Oct 1 - Oct 31, 2019. Contains 27 fields
+     - Contains the date of the tweet, content, as well as sentiment of tweet, along with other tweet metrics
+     
+Oct_Price.csv - a file containing FTSE100 stock prices from Aug 23, 2019 - Nov 14, 2019
+
+FTSE_twitter_accounts.csv - a file containing main tweet handles for each FTSE100 company. Used as search terms for tweets. 
+    - This table acts as a link between ISIN (main identifier in Oct_Price.csv) to twitter handles to company name
+
+Question: Is there an impact of social media on a company's stock price? What are the potential limitations of this dataset
+    - Was there a potential trend on a company prior to a specific tweet?

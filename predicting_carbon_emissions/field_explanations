@@ -1,0 +1,69 @@
+Table of 3987 companies, and how they perform with respect to carbon emissions.
+Each row represents an individual company 
+Each column represents a specific trait of the company.
+
+Account ID - company identifier
+Company Name	
+Listed - if listed on a stock exchange
+Ticker - the stock exchange identifier company is listed in
+ISIN - company identifier
+HQ Country	
+GICS Sector	
+Accounting Year End	 
+Reported Scope 1 (tCO2e) - All Direct Emissions from the activities of an organisation or under their control. Including fuel combustion on site such as gas boilers, fleet vehicles and air-conditioning leaks.
+Estimated Scope 1 (tCO2e)- predicted emissions using gamma glm
+Scope 1 source
+Scope 1 quality flag - 1 low, 7 is good
+Reported market-based Scope 2 (tCO2e) - Indirect Emissions from electricity purchased and used by the organisation
+Note 	 
+Reported location-based Scope 2 (tCO2e)
+Estimated location-based Scope 2 (tCO2e)
+Location-based Scope 2 source	
+Location-based Scope 2 quality flag	
+Scope 2 company comments	
+GHG revenue intensity (tCO2e/mmUSD)	- same as Carbon Emission  (tCO2e/mmUSD)
+Scope 2 figure used for intensity	
+amplification.wordsindex	- index created for the company
+DeAmplification.wordsindex	
+HE_negativeindex	
+HE_positiveindex	
+angerindex	
+anticipationindex	
+disgustindex	
+fearindex	
+joyindex	
+sadnessindex	
+surpriseindex	
+trustindex	
+LMnegativeindex	
+LMpositiveindex	
+LMuncertaintyindex	
+BasicNegativeWordsindex	
+PositivePolarisedindex	
+NegativePolarisedindex	
+PowerWordsindex	
+PrudentialNegativeindex	
+PrudentialPositiveindex	
+PrudentialTopNegativeindex	
+Strategyindex	
+Financial.termsindex	
+Regulationindex	
+Technologyindex	
+Healthcareindex	
+Environmentindex	
+Socialindex	
+Governanceindex	
+ESGindex	
+LMuncertaintyindex	
+Regulationindex	
+Environmentindex	
+Socialindex	
+Governanceindex	
+ESGindex	
+ISIN lower - company identifier
+2016vol	- financial metric from 2016
+2017vol	- financial metric
+2018vol	- financial metric
+2019vol	- financial metric
+VolFactor	- financial metric
+Carbon Emission  (tCO2e/mmUSD)
